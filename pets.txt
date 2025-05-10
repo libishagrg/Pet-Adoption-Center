@@ -1,0 +1,5 @@
+Dog,D02,Ally,8,Japanese Splitz,Healthy
+Dog,D03,Jimmy,5,Golden Retriver,Healthy
+Cat,C01,Mimi,6,Orange,Healthy
+Cat,C02,Haru,2,Orange,Healthy
+Cat,C03,Sana,5,American Curl,Healthy
